@@ -1,0 +1,11 @@
+#!/bin/sh
+
+#start install docker-tomcat
+
+#检测docker是否安装,没有就先安装
+
+#下载dockerfile安装镜像
+
+#安装启动docker
+
+#设置配置文件
